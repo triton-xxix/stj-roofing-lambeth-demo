@@ -72,8 +72,8 @@ const Hero = () => {
           <div className="hidden lg:block relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="/images/hero-roof-aerial.jpg" 
-                alt="Professional roofer working on a residential roof"
+                src="/images/hero-roof.jpg" 
+                alt="Professional roofers working on a residential roof"
                 className="w-full h-[500px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-cyan-900/80 via-transparent to-transparent" />
